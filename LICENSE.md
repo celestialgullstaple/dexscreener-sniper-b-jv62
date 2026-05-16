@@ -1,4 +1,4 @@
-# 
+# quantitative Liquidity Bot for pump.fun sniper bot | auto-sell & front-running is the best pump.fun sniper bot, featuring auto-sell and front-running. Fast, smart, and optimized
 
 
 
